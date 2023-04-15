@@ -1,0 +1,14 @@
+.welcome{
+    grid-template-rows: 20vh 30vh;
+    background-color: rgb(189,255,0);
+    background: linear-gradient(90deg, rgba(189,255,0,1) 19%, rgba(189,255,0,1) 30%, rgba(38,0,255,1) 100%);;
+
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkgreen;
+    text-shadow: 0 15px 5px black;
+    flex-direction: column;
+}
